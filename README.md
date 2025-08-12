@@ -1,5 +1,5 @@
-# Vicente Pardo Silva
+# Vicente Eduardo Pardo Silva
 
-*"El mejor repositorio de mi casa"* - Mi Mamá, 2025
+*"El mejor repositorio de mi casa"*
 ####
 <img src="/images/spinning-spining-cat.gif">
