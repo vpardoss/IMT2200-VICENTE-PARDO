@@ -2,4 +2,4 @@
 
 *"El mejor repositorio de mi casa"*
 ####
-<img src="/spinning-spining-cat.gif">
+<img src="/images/spinning-spining-cat.gif">
