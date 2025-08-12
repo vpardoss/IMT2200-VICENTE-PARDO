@@ -17,4 +17,4 @@ Además de los **cambios mínimos solicitados**, se han realizado los siguientes
 
 ####
 
-<summary>Se ha implementado una casilla que imprime las comunas de la región metropolitana, respetando las mayúsculas de sus nombres.</summary>
+<summary>Se ha implementado una casilla que imprime las comunas de la Región Metropolitana, respetando las mayúsculas de sus nombres.</summary>
